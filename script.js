@@ -1,4 +1,4 @@
-const matchStartTime = new Date('2024-07-11T17:00:00');
+const matchStartTime = new Date('2024-09-21T20:00:00');
  
     function updateMatchDetails() {
         // Set the match start date and time dynamically
